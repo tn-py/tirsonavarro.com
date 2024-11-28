@@ -36,7 +36,7 @@ export const projects = [
         techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
         github: "https://github.com/tn-py/search-by-vin",
         demo: "https://https://searchbyvin.tirso-coolifyserver.tech/",
-        image: "/projects/eldoraui.png",
+        image: "/projects/searchbyvin.png",
         available: true,
     },
     {
@@ -49,7 +49,7 @@ export const projects = [
         techLinks: ["https://get.webgl.org/", "https://www.typescriptlang.org/", "https://reactjs.org/"],
         github: "https://github.com/tn-py/VRMALL",
         demo: "https://vrmalldemo.netlify.app/",
-        image: "/projects/vrmall.png",
+        image: "/projects/project2.png",
         available: true,
     },
 ];

@@ -4,11 +4,13 @@ import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 import {
     SiGit,
-    SiGithub,SiPostgresql,SiMysql,
+    SiGithub,SiPostgresql,
     SiJavascript, SiNextdotjs, SiReact, SiTypescript,
-    SiMongodb,
-    SiNodedotjs
+    SiCloudflare,SiVercel, SiPostman
 } from "react-icons/si";
+import {
+    RiSupabaseLine
+} from "react-icons/ri";
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
 const Tools = () => {
@@ -33,10 +35,9 @@ const Tools = () => {
                         <AnimatedBody delay={0.2} text="Frontend" />
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
-                                <SiTypescript size={50}/>
                                 <SiJavascript size={50}/>
+                                <SiTypescript size={50}/>
                                 <SiReact size={50}/>
-                                
                                 <SiNextdotjs size={50}/>
                             </AnimatedTools>
                         </div>
@@ -45,10 +46,11 @@ const Tools = () => {
                         <AnimatedBody delay={0.3} text="Backend" />
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.3} stepSize={0.1} iconSize={50}>
+                                <RiSupabaseLine size={50}/>
                                 <SiPostgresql size={50}/>
-                                <SiMysql size={50}/>
-                                <SiMongodb size={50}/>
-                                <SiNodedotjs size={50}/>
+                                <SiCloudflare size={50}/>
+                                <SiVercel size={50}/>
+                                <SiPostman size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>
