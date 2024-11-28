@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/karthikmudunuri/eldoraui">
+  <a href="https://github.com/tn-py/eldoraui">
 
 
  <img src="https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3" alt="Logo" width="60" height="60">
@@ -13,9 +13,9 @@
     
    <a href="https://www.eldoraui.site/">Visit site</a>
     ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Report Bug</a>
+    <a href="https://github.com/tn-py/eldoraui/issues">Report Bug</a>
     ·
-    <a href="https://github.com/karthikmudunuri/eldoraui/issues">Request Feature</a>
+    <a href="https://github.com/tn-py/eldoraui/issues">Request Feature</a>
   </p>
 </div>
 
@@ -43,7 +43,7 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/karthikmudunuri/portfolio-template
+   git clone https://github.com/tn-py/portfolio-template
    ```
 
 2. Move to the cloned directory
@@ -64,8 +64,8 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
    npm run dev
    ```
 
-5. Open the [Sections](https://github.com/karthikmudunuri/portfolio-template/tree/main/app/sections) folder and make changes
+5. Open the [Sections](https://github.com/tn-py/portfolio-template/tree/main/app/sections) folder and make changes
 
 # License
 
-Licensed under the [MIT license](https://github.com/karthikmudunuri/portfolio-template/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/tn-py/portfolio-template/blob/main/LICENSE.md).

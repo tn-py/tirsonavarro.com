@@ -62,7 +62,7 @@ export const metadata: Metadata = {
         title: "Portfolio template - Eldora UI",
         description:
       "Portfolio template - Eldora UI is a portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.",
-        creator: "@karthikmudunuri",
+        creator: "@tirso_navarro",
         creatorId: "0000000000",
         images: ["./public/metadata.jpg"],
     },
