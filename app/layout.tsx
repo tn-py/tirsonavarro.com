@@ -11,14 +11,15 @@ const syne = Inter({
 
 export const metadata: Metadata = {
     metadataBase: new URL("https://www.example.com/"),
-    title: "Portfolio template - Eldora UI",
+    title: "Tirso Navarro Dev",
     description:
-    "Eldora UI is a portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.",
+    "Developer portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion.",
     generator: "Next.js",
-    applicationName: "Portfolio template",
+    applicationName: "Developer Portfolio",
     keywords: [
-        "Portfolio template",
-        "Eldora UI",
+        "Developer Portfolio",
+        "framer motion",
+        "motion.dev",
         "React",
         "developer",
         "frontend",
@@ -41,17 +42,17 @@ export const metadata: Metadata = {
     ],
     colorScheme: "dark",
     openGraph: {
-        title: "Portfolio template - Eldora UI",
+        title: "Tirso Navarro Dev",
         description:
-      "Eldora UI is a portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.",
+      "Developer portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion.",
         url: "https://www.eldoraui.site/",
-        siteName: "www.eldoraui.site",
+        siteName: "www.tirsonavarro.dev",
         images: [
             {
                 url: "./public/metadata.jpg",
                 width: 1200,
                 height: 630,
-                alt: "Portfolio template - Eldora UI",
+                alt: "Tirso Navarro Dev - Developer Portfolio",
             },
         ],
         locale: "en-US",
@@ -59,9 +60,9 @@ export const metadata: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        title: "Portfolio template - Eldora UI",
+        title: "Tirso Navarro Dev",
         description:
-      "Portfolio template - Eldora UI is a portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.",
+      "Developer portfolio template built with React, Typescript, Tailwind CSS, and Framer Motion.",
         creator: "@tirso_navarro",
         creatorId: "0000000000",
         images: ["./public/metadata.jpg"],
