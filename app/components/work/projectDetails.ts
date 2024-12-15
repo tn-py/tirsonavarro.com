@@ -52,4 +52,30 @@ export const projects = [
         image: "/projects/welcome-this.is.png",
         available: true,
     },
+    {
+        id: 2,
+        name: "Shopify Dummy Data Generator Scripts",
+        description:
+            "Google Apps Script for generating dummy shopify data for testing",
+        technologies: [SiShopify],
+        techNames: ["WebGL", "Typescript", "React"],
+        techLinks: ["https://get.webgl.org/", "https://www.typescriptlang.org/", "https://reactjs.org/"],
+        github: "https://github.com/tn-py/Google-Apps-Scripts",
+        demo: "https://welcome-this-is.myshopify.com/",
+        image: "/projects/Apps-Scripts-Dummy-Data.png",
+        available: true,
+    },
+    {
+        id: 3,
+        name: "Coolify Self-Hosted Server",
+        description:
+            "Coolify Server Running Multiple Test Apps",
+        technologies: [SiShopify],
+        techNames: ["Coolify"],
+        techLinks: ["https://coolify.io/"],
+        github: "https://github.com/coollabsio/coolify",
+        demo: "https://coolify.tirso-coolifyserver.tech/",
+        image: "/projects/Coolify.png",
+        available: true,
+    },
 ];
