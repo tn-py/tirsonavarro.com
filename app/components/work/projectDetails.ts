@@ -1,7 +1,7 @@
 import {
     SiCplusplus,
     SiSupabase,
-    SiGithub, SiNeovim,
+    SiGithub, SiShopify,
     SiNextdotjs,
     SiReact,
     SiRust,
@@ -41,14 +41,14 @@ export const projects = [
     },
     {
         id: 1,
-        name: "VR MALL",
+        name: "Shopify Development Store",
         description:
-            "Developed an virtual mall by using Three.js and Typescript..",
-        technologies: [SiWebgl,SiTypescript, SiReact],
+            "Custom Shopify theme. To access the store use code: SHOPIFY",
+        technologies: [SiShopify],
         techNames: ["WebGL", "Typescript", "React"],
         techLinks: ["https://get.webgl.org/", "https://www.typescriptlang.org/", "https://reactjs.org/"],
         github: "https://github.com/tn-py/VRMALL",
-        demo: "https://vrmalldemo.netlify.app/",
+        demo: "https://welcome-this-is.myshopify.com/",
         image: "/projects/project2.png",
         available: true,
     },

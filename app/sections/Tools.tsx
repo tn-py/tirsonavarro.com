@@ -5,8 +5,8 @@ import AnimatedTitle from "../animations/AnimatedTitle";
 import {
     SiGit,
     SiGithub,SiPostgresql,
-    SiJavascript, SiNextdotjs, SiReact, SiTypescript,
-    SiCloudflare,SiVercel, SiPostman
+    SiJavascript, SiNextdotjs, SiReact, SiTypescript,SiShopify,
+    SiCloudflare,SiVercel, SiPostman,SiFigma,
 } from "react-icons/si";
 import {
     RiSupabaseLine
@@ -35,6 +35,7 @@ const Tools = () => {
                         <AnimatedBody delay={0.2} text="Frontend" />
                         <div>
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
+                                <SiShopify size={50}/>
                                 <SiJavascript size={50}/>
                                 <SiTypescript size={50}/>
                                 <SiReact size={50}/>
@@ -60,7 +61,7 @@ const Tools = () => {
                             <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <SiGithub size={50}/>
                                 <SiGit size={50}/>
-                                
+                                <SiFigma size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>
