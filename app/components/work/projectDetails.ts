@@ -30,7 +30,7 @@ export const projects = [
         id: 0,
         name: "Search By VIN Tool",
         description:
-            "open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable.",
+            "Search By VIN Tool created with TypeScript, React, Next.js, Tailwind CSS, Supabase",
         technologies: [SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiSupabase],
         techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Supabase"],
         techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
@@ -49,7 +49,7 @@ export const projects = [
         techLinks: ["https://get.webgl.org/", "https://www.typescriptlang.org/", "https://reactjs.org/"],
         github: "https://github.com/tn-py/VRMALL",
         demo: "https://welcome-this-is.myshopify.com/",
-        image: "/projects/project2.png",
+        image: "/projects/welcome-this.is.png",
         available: true,
     },
 ];

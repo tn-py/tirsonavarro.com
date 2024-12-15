@@ -6,11 +6,17 @@ import {
     SiGit,
     SiGithub,SiPostgresql,
     SiJavascript, SiNextdotjs, SiReact, SiTypescript,SiShopify,
-    SiCloudflare,SiVercel, SiPostman,SiFigma,
+    SiCloudflare,SiVercel, SiPostman,SiFigma,SiSemrush,
 } from "react-icons/si";
 import {
     RiSupabaseLine
 } from "react-icons/ri";
+import {
+    TbBrandPowershell
+} from "react-icons/tb";
+import {
+    DiLinux,DiPython,
+} from "react-icons/di";
 import AnimatedTools from "../animations/AnimatedTools.tsx";
 
 const Tools = () => {
@@ -34,12 +40,13 @@ const Tools = () => {
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-bold leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[40px] md:leading-relaxed lg:mb-16 lg:w-[50%]">
                         <AnimatedBody delay={0.2} text="Frontend" />
                         <div>
-                            <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
+                            <AnimatedTools className="grid grid-cols-6 gap-4" delay={0.2} stepSize={0.1} iconSize={50}>
                                 <SiShopify size={50}/>
                                 <SiJavascript size={50}/>
                                 <SiTypescript size={50}/>
                                 <SiReact size={50}/>
                                 <SiNextdotjs size={50}/>
+                                <DiPython size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>
@@ -58,10 +65,13 @@ const Tools = () => {
                     <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-bold leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[40px] md:leading-relaxed lg:mb-16 lg:w-[50%]">
                         <AnimatedBody delay={0.4} text="Other" />
                         <div>
-                            <AnimatedTools className="grid grid-cols-5 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
+                            <AnimatedTools className="grid grid-cols-6 gap-4" delay={0.4} stepSize={0.1} iconSize={50}>
                                 <SiGithub size={50}/>
                                 <SiGit size={50}/>
                                 <SiFigma size={50}/>
+                                <SiSemrush size={50}/>
+                                <DiLinux size={50}/>
+                                <TbBrandPowershell size={50}/>
                             </AnimatedTools>
                         </div>
                     </div>
