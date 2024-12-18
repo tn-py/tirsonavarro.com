@@ -1,21 +1,19 @@
 <div align="center">
-  <a href="https://github.com/tn-py/eldoraui">
-
-
- <img src="https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3" alt="Logo" width="60" height="60">
+  <a href="https://github.com/tn-py/tirsonavarro.dev">
+   <h1 align="center">Tirso Navarro</h1>
   </a>
-  <h1 align="center">Eldora UI</h1>
+  
   <p align="center">
-   open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
+   open-source animated components built with Eldora UI, React, Typescript, Tailwind CSS, and Framer Motion.
 100% open-source, and customizable.
   </p>
   <p>
     
-   <a href="https://www.eldoraui.site/">Visit site</a>
+   <a href="https://www.tirsonavarro.dev/">Visit site</a>
     ·
-    <a href="https://github.com/tn-py/eldoraui/issues">Report Bug</a>
+    <a href="https://github.com/tn-py/tirsonavarro.dev/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tn-py/eldoraui/issues">Request Feature</a>
+    <a href="https://github.com/tn-py/tirsonavarro.dev/issues">Request Feature</a>
   </p>
 </div>
 
@@ -23,7 +21,7 @@
 
 <div align="center">
 
- <img width="1425" alt="Portfolio-template" src="https://github.com/user-attachments/assets/265fa13e-98ed-4c99-bd7f-ce7efe19627f">
+ <img width="1425" alt="Portfolio-template" src="https://TN-Pull-Zone.b-cdn.net/Screenshot%202024-12-18%20at%2018-06-53%20Tirso%20Navarro%20Dev.png">
 
  
 </div>
@@ -65,6 +63,13 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
    ```
 
 5. Open the [Sections](https://github.com/tn-py/portfolio-template/tree/main/app/sections) folder and make changes
+
+
+<a href="https://github.com/tn-py/tirsonavarro.dev">
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/d00f15e8-cc1a-47a6-b99f-885156a55fc3" alt="Logo" width="60" height="60">
+</div>
+</a>
 
 # License
 
