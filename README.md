@@ -41,7 +41,7 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/tn-py/portfolio-template
+   git clone https://github.com/tn-py/tirsonavarro.dev
    ```
 
 2. Move to the cloned directory
@@ -62,7 +62,7 @@ Minimalist developer portfolio using Next.js 14, React, TailwindCSS, Framer moti
    npm run dev
    ```
 
-5. Open the [Sections](https://github.com/tn-py/portfolio-template/tree/main/app/sections) folder and make changes
+5. Open the [Sections](https://github.com/tn-py/tirsonavarro.dev/tree/main/app/sections) folder and make changes
 
 
 <a href="https://github.com/tn-py/tirsonavarro.dev">
