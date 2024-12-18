@@ -8,8 +8,8 @@
 100% open-source, and customizable.
   </p>
   <p>
-    
-   <a href="https://www.tirsonavarro.dev/">Visit site</a>
+   
+   <a href="https://www.tirsonavarro.dev">Visit site</a>
     ·
     <a href="https://github.com/tn-py/tirsonavarro.dev/issues">Report Bug</a>
     ·
